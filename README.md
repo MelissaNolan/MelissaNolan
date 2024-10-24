@@ -1,4 +1,11 @@
-## Hi there 👋
+# About Me 👋
+I am a Biology graduate that is interested in Bioinformatics! <br/>
+My academic and professional interests include Genetics, Math, <br/>
+ Astrobiology, and Programming. 
+
+## I'm currently learning...
+-Linear Algebra <br/>
+-Python <br/>
 
 <!--
 **MelissaNolan/MelissaNolan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
