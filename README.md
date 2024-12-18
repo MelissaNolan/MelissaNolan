@@ -1,7 +1,7 @@
 # About Me 👋
 I am a Biology graduate that is interested in Bioinformatics! <br/>
 My academic and professional interests include Genetics, Math, <br/>
- Astrobiology, and Programming. 
+Precision Medicine, Astrobiology, and Programming. 
 
 ## I'm currently learning...
 -Linear Algebra <br/>
